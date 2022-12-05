@@ -1,4 +1,6 @@
-package com.example.springmvcconfiguration;
+package com.example.springmvcconfiguration.validation;
+
+import com.example.springmvcconfiguration.HeadToHead;
 
 import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;

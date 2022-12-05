@@ -1,4 +1,4 @@
-package com.example.springmvcconfiguration;
+package com.example.springmvcconfiguration.model;
 
 import org.springframework.format.annotation.DateTimeFormat;
 

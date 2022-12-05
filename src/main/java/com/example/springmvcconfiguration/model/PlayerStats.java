@@ -1,4 +1,6 @@
-package com.example.springmvcconfiguration;
+package com.example.springmvcconfiguration.model;
+
+import com.example.springmvcconfiguration.HeadToHead;
 
 public class PlayerStats {
 

@@ -1,6 +1,6 @@
-package com.example.springmvcconfiguration;
+package com.example.springmvcconfiguration.controller;
 
-import jdk.internal.org.jline.keymap.BindingReader;
+import com.example.springmvcconfiguration.model.Athlete;
 import org.springframework.beans.propertyeditors.StringTrimmerEditor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
