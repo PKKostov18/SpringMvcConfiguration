@@ -17,7 +17,7 @@
 
 <br><br>
 
-<b>${playerStats.player1}</b> &emsp; vs. &emsp; <b>${payerStats.player2}</b>
+<b>${playerStats.player1}</b> &emsp; vs. &emsp; <b>${playerStats.player2}</b>
 
 <br><br>
 

@@ -1,3 +1,4 @@
+<jsp:useBean id="athlete" scope="request" type="com.example.springmvcconfiguration.model.Athlete"/>
 <%--
   Created by IntelliJ IDEA.
   User: PKKostov18

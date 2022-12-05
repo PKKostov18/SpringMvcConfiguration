@@ -1,4 +1,4 @@
-<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+
 <%--
   Created by IntelliJ IDEA.
   User: PKKostov18
@@ -62,7 +62,7 @@
     <form:errors path="lastWon" cssClass="error"/>
 
     Prize Money (USD): <form:input path="prizeMoney" placeholder="$#,###,###"/>
-    <form:errors path="prizrMoney" cssClass="error"/>
+    <form:errors path="prizeMoney" cssClass="error"/>
 
     <br><br>
     <input type="submit" value="Add Player"/>
